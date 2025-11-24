@@ -1,6 +1,6 @@
 # 🛡️ Cyber-RAG – Assistant Intelligent de Réponse en Cybersécurité
 
-> **Projet de Fin d’Études** – ESPRIT, Tunisie  
+> **Projet Advanced learning** – ESPRIT, Tunisie  
 > Un système de question-réponse expert en cybersécurité, **sans hallucination**, basé sur Retrieval-Augmented Generation (RAG), NLP avancé et modélisation par graphe (GNN).
 
 ---
