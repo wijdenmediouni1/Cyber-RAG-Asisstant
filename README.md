@@ -43,10 +43,3 @@ Exploiter un **corpus textuel expert** en cybersécurité pour :
 - **Données** : Dataset expert en cybersécurité (paires question-réponse techniques)
 
 ---
-
-## 📦 Utilisation
-
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/votre-username/cyber-rag.git
-   cd cyber-rag
